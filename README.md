@@ -3,6 +3,7 @@ This repository includes codes and theoretical proofs for paper "Efficient Tenso
 
 # Datasets
 The datasets for realworld experiments can be downloaded here: https://drive.google.com/drive/folders/1RLAskW6_Cke7XP9bcaxRRTiaa9L5JmXR.
+We use FMNIST for the TRN compression experiment, which is available at https://github.com/zalandoresearch/fashion-mnist.
 
 # Requirements
 Our code requires:
